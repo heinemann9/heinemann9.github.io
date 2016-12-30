@@ -69,6 +69,9 @@ p {
   text-align: center;
   color: #fff;
 }
+.sidebar-wrapper .profile-container .lang-select {
+  margin-top: 15px;
+}
 .sidebar-wrapper .name {
   font-size: 28px;
   font-weight: 900;
